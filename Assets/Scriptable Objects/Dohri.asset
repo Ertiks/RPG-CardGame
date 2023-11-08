@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8493d5c0c453dd24a9085d9647e92318, type: 3}
+  m_Name: Dohri
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6356514243438263963, guid: ee713b666190a2d46b2813fa13065858, type: 3}
+  idle: {fileID: 21300000, guid: 79a3a5ab346e69e4eb7415594d4b211c, type: 3}
+  dead: {fileID: 21300000, guid: b6469b7f860e50d47b1a7d1b599f26ee, type: 3}
